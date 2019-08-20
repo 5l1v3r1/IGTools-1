@@ -1,4 +1,4 @@
-# Inshackle v1.0
+# IGTools v1.0
 ## Author: github.com/kennedy69/IGTools
 ## IG: instagram.com/frdy_an
 ### Don't copy this code without give me the credits, nerd! Please read the License 
